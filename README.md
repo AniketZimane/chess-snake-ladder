@@ -56,6 +56,4 @@ This will start both the backend server and the React development server.
 - You must land exactly on square 100 to win
 - If your roll would take you beyond square 100, you don't move
 
-## License
-
-MIT
+## Author:- Aniket Zimane
